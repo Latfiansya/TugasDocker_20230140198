@@ -2,6 +2,7 @@ package com.tugas.deploy.model;
 
 public class User {
 
+    // membuat variabel untuk mhs
     private String nama;
     private String nim;
     private String jenisKelamin;
