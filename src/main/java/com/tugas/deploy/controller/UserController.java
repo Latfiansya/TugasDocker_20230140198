@@ -11,7 +11,7 @@ import java.util.List;
 
 @Controller
 public class UserController {
-
+    // membuat variabel tetap
     private final String USERNAME = "admin";
     private final String PASSWORD = "20230140198";
 
